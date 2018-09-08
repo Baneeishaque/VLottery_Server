@@ -1,0 +1,17 @@
+
+# Created by https://www.gitignore.io/api/netbeans
+
+### NetBeans ###
+### NetBeans php###
+nbproject/private/
+# build/
+# nbbuild/
+# dist/
+# nbdist/
+# .nb-gradle/
+# nbactions.xml
+
+# End of https://www.gitignore.io/api/netbeans
+
+.idea/workspace.xml
+.idea/dataSources/

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="vfmob_ftp" deleteMissingItems="true" createEmptyFolders="true">
+    <serverData>
+      <paths name="Local IIS">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/php/vlottery_server" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="vfmob_ftp">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/vlottery_server" local="$PROJECT_DIR$" web="/vlottery_server" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/db" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.gitignore" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.travis.yml" />
+            <excludedPath local="true" path="$PROJECT_DIR$/web.config" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="vfmob_sftp">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/vlottery_server" local="$PROJECT_DIR$" web="/vlottery_server" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/web.config" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.travis.yml" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.gitignore" />
+            <excludedPath local="true" path="$PROJECT_DIR$/db" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

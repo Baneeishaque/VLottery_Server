@@ -1,0 +1,39 @@
+POST http://vfmob.com.md-in-64.webhostbox.net/wp-production/vlottery_server/http_API/pos/get_version_pos.php
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-01T024503.200.html
+
+###
+
+POST http://vfmob.com.md-in-64.webhostbox.net/wp-production/vlottery_server/http_API/pos/get_version_pos.php
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://vfmob.com.md-in-64.webhostbox.net/wp-production/vlottery_server/http_API/pos/get_agent_login.php
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Cache-Control: no-cache
+
+username=ban&password=ban&flavour=pos
+
+<> 2018-09-01T024206.200.html
+
+###
+
+POST http://vfmob.com.md-in-64.webhostbox.net/wp-production/vlottery_server/http_API/pos/get_agent_login.php
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Cache-Control: no-cache
+
+username=ban&password=ban&flavour=pos
+
+###
+
+POST http://vfmob.com.md-in-64.webhostbox.net/wp-production/vlottery_server/http_API/pos/get_version_pos.php
+Accept: */*
+Cache-Control: no-cache
+
+###
